@@ -55,7 +55,7 @@ To explore customer reviews on Amazon products, identify key patterns in user fe
 -Pivot Tables
 -Conditional Formatting
 -Charts (Bar, Column, Pie)
--Data Cleaning (Text-to-Columns, Filters)
+-Data Cleaning (Text-to-Columns, Filters).
 
 **Key Insights**
 -Distribution of review ratings (e.g., 5-star vs. 1-star).
